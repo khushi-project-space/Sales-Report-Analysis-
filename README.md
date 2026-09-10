@@ -1,12 +1,7 @@
+## 📸 Dashboard Preview
 <img width="1237" height="700" alt="image" src="https://github.com/user-attachments/assets/ccfb26f2-3020-40d2-9e17-3f7a86715039" /># 🛒 Retail Sales Analytics Dashboard
 
 A comprehensive data analytics and visualization solution built using **Microsoft Power BI** to track, analyze, and optimize retail sales performance, transaction metrics, and revenue distribution.
-
----
-
-## 📸 Dashboard Preview
-
-*(Note: Add your dashboard screenshot here after uploading it to your repository)*
 
 ---
 
